@@ -1,13 +1,13 @@
 body {
-    background-color: orange;
-    color: rgb(233, 211, 172);
+    background-color: rgb(185, 185, 185);
+    color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
 }
 
 header {
     font-family: Arial, sans-serif; 
     font-size: 46px; 
-    color: brown; 
+    color: rgb(255, 196, 230); 
     text-align: center; 
     margin: 20px 0; 
     font-weight: bold; 
