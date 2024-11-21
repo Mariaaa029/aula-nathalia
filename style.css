@@ -7,7 +7,7 @@ body {
 header {
     font-family: Arial, sans-serif; 
     font-size: 46px; 
-    color: rgb(255, 196, 230); 
+    color: rgb(5, 5, 5); 
     text-align: center; 
     margin: 20px 0; 
     font-weight: bold; 
@@ -22,7 +22,7 @@ h1, h2, h3, p, a, span {
 }
 
 section {
-    background: rgb(150, 89, 89);
+    background: rgb(255, 192, 216);
     padding-bottom: 40px;
     padding-top: 40px;
     display: flex;
