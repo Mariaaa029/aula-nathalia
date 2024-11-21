@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(185, 185, 185);
+    background-color: rgb(158, 158, 158);
     color: rgb(0, 0, 0);
     font-family: Arial, sans-serif;
 }
@@ -22,7 +22,7 @@ h1, h2, h3, p, a, span {
 }
 
 section {
-    background: rgb(255, 192, 216);
+    background: rgb(255, 174, 205);
     padding-bottom: 40px;
     padding-top: 40px;
     display: flex;
