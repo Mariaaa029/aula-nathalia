@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Notable&family=Noto+Sans+JP:wght@100..900&display=swap');
 
 body {
-    background-color: rgb(179, 179, 179);
+    background-color:rgb(179, 179, 179);
     color: rgb(0, 0, 0);
     font-family: .notable-regular {
         font-family: 'Noto Sans JP', sans-serif;
@@ -23,7 +23,7 @@ header {
  
 h1, h2, h3, p, a, span {
     text-shadow: 2px 2px 4px rgba(0 , 0 , 0 , 0.5)
-font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
 margin: 15px 0;
 font-size: 36px
 }
