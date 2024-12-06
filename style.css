@@ -19,10 +19,21 @@ header {
     margin: 20px 0; 
     font-weight: bold; 
     text-shadow: 2px 2px 4px rgb(119, 119, 119);
+}
+ 
+h1, h2, h3, p, a, span {
+    text-shadow: 2px 2px 4px rgba(0 , 0 , 0 , 0.5)
+font-family: Arial, sans-serif;
+margin: 15px 0;
+font-size: 36px
+}
+
+section {
+    background: rgb(255, 174, 205)
     padding-bottom: 40px;
     padding-top: 40px;
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
